@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Grafiskais_redaktors_md2\bin\Debug\Grafiskais_redaktors_md2.exe.config
+C:\Users\User\source\repos\Grafiskais_redaktors_md2\bin\Debug\Grafiskais_redaktors_md2.exe
+C:\Users\User\source\repos\Grafiskais_redaktors_md2\bin\Debug\Grafiskais_redaktors_md2.pdb
+C:\Users\User\source\repos\Grafiskais_redaktors_md2\obj\Debug\Grafiskais_redaktors_md2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Grafiskais_redaktors_md2\obj\Debug\Grafiskais_redaktors_md2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Grafiskais_redaktors_md2\obj\Debug\Grafiskais_redaktors_md2.Form1.resources
+C:\Users\User\source\repos\Grafiskais_redaktors_md2\obj\Debug\Grafiskais_redaktors_md2.Properties.Resources.resources
+C:\Users\User\source\repos\Grafiskais_redaktors_md2\obj\Debug\Grafiskais_redaktors_md2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Grafiskais_redaktors_md2\obj\Debug\Grafiskais_redaktors_md2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Grafiskais_redaktors_md2\obj\Debug\Grafiskais_redaktors_md2.exe
+C:\Users\User\source\repos\Grafiskais_redaktors_md2\obj\Debug\Grafiskais_redaktors_md2.pdb
