@@ -31,8 +31,9 @@
 
 ## Izstrāde
 
-Lai palaistu šo lietotni, jums būs nepieciešams:
-
 - Visual Studio (vai jebkura saderīga IDE C# izstrādei)
 - .NET Framework (Windows Forms lietotnēm)
 
+Klonējiet šo repozitoriju un atveriet risinājuma failu programmā Visual Studio.
+Klonējiet šo repozitoriju un atveriet risinājuma failu programmā Visual Studio.
+Klonējiet šo repozitoriju un atveriet risinājuma failu programmā Visual Studio.
